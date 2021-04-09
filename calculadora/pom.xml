@@ -16,7 +16,7 @@
      <manifest>
       <addClasspath>true</addClasspath>
       <classpathPrefix>lib/</classpathPrefix>
-      <mainClass>Paquete.Claseprincipal de tu programa</mainClass>
+      <mainClass>com.calculadora.program.BasicOperations.java</mainClass>
      </manifest>
     </archive>
    </configuration>
