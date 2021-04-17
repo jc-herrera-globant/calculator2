@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="My logger test" >
+    <test name="My logger test" >
+        <classes>
+            <class name="org.example.ESPNTest" />
+        </classes>
+        <groups>
+            <run>
+                <include name="grupo1"/>
+            </run>
+        </groups>
+    </test>
+</suite>
